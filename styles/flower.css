@@ -1,0 +1,92 @@
+
+.banana2 .head-line{
+margin: 80px;
+color: #272727;
+font-family: Lato;
+font-size: 80px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+
+
+
+.the-problem{
+    text-align: right;
+}
+
+.banana-link{
+margin: 80px;
+color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+
+
+
+.btn-primary{
+    color: black;
+    margin: 100px;
+    font-family: Lato;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    background-color: antiquewhite;
+
+}
+
+
+.section-title{
+color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-weight: 800;
+}
+
+.flower-summary{
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+
+
+.banana2{
+
+    background-color: rgb(255, 227, 196);
+
+}
+
+.italy-room{
+    text-align: center;
+}
+
+
+.ziro-point{
+    background-color: antiquewhite;
+    text-align: center;
+}
+    
+.ten-plass{
+    text-align: center;
+}
+
+
+.luki, .complex{
+    text-align: center;
+}
+
+.first-experience{
+    text-align: center;
+}
+.new-zoon{
+    color: crimson;
+}
